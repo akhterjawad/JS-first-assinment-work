@@ -26,16 +26,16 @@
 
 
 
-var height = +prompt("Put the height")
-if(height < 20){
-    console.log("not accept")
-}
-else if( height > 30 ){
-  console.log("Accepted")
-}
-else{
-    console.log("just accepted")
-}
+// var height = +prompt("Put the height")
+// if(height < 20){
+//     console.log("not accept")
+// }
+// else if( height > 30 ){
+//   console.log("Accepted")
+// }
+// else{
+//     console.log("just accepted")
+// }
 
 
 
