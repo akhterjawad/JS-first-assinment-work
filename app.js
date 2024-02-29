@@ -59,19 +59,19 @@
 
 
 
-// var Age = +prompt("Enter your age" )
-// if( Age >= 28 ){
-//     console.log(" abba nahi manga")
-// }
-// else if( 22 <= Age  ){
-//    console.log("ma abba ko manalongi ")
-// }
-// else if( 18 <= Age  ){
-//     console.log("bs thora bara hojaw ")
-//  }
-// else{
-//     console.log("bara ho ka a ")
-// }
+var Age = +prompt("Enter your age" )
+if( Age >= 28 ){
+    console.log(" abba nahi manga")
+}
+else if( 22 <= Age  ){
+   console.log("ma abba ko manalongi ")
+}
+else if( 18 <= Age  ){
+    console.log("bs thora bara hojaw ")
+ }
+else{
+    console.log("bara ho ka a ")
+}
 
 
 
